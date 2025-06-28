@@ -1,0 +1,3 @@
+GROK_API_KEY =key
+NEWSAPI_KEY =key
+GROK_API_BASE=base
